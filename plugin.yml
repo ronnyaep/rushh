@@ -1,0 +1,7 @@
+name: RushPlugin
+author: Dragoh
+version: 2.2
+main: rush.Main
+commands:
+  rush:
+    permission: rush.rush
